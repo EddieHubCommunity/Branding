@@ -1,3 +1,13 @@
-# Community Template Repo
+# EddieHub Branding Repo
 
-Template repo with docs and GitHub Actions etc, to create other projects.
+Assets for EddieHub branding repo.
+
+## Assets
+
+### Chibi with screens
+
+<img src="assets/chibi.png" height="150px" />
+
+### Chibi
+
+<img src="assets/chibi-eddiejaoude.png" height="150px" />
