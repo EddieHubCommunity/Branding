@@ -1,7 +1,7 @@
 on:
   fork:
   push:
-    branches: [ main ]
+    branches: [ develop ]
   issues:
     types: [ opened ]
   issue_comment:
