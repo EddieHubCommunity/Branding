@@ -33,7 +33,6 @@ Assets for EddieHub branding repo.
 ![21](https://user-images.githubusercontent.com/624760/114314293-f0a3e200-9af1-11eb-978a-60a76155239a.png)
 ![22](https://user-images.githubusercontent.com/624760/114314294-f0a3e200-9af1-11eb-9019-b96b5b15cb7c.png)
 
-
 ### EddieHub
 
 <img src="assets/eddiehub.png" height="150px" />
