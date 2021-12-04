@@ -8,6 +8,7 @@ Assets for EddieHub branding repo.
 
 ![DashboardHub_Macot_Colors](https://user-images.githubusercontent.com/624760/114314355-2b0d7f00-9af2-11eb-8995-7db0bcb30f97.png)
 
+![Combined text + mascot](https://user-images.githubusercontent.com/624760/141800897-6d627e9a-7f82-4043-821f-9e9f380a4b98.png)
 
 ![1](https://user-images.githubusercontent.com/624760/114314267-e681e380-9af1-11eb-94d9-f71549b11761.png)
 ![2](https://user-images.githubusercontent.com/624760/114314270-e8e43d80-9af1-11eb-9743-aa29ce06c70d.png)
