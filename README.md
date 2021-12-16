@@ -6,7 +6,7 @@ Assets for EddieHub branding repo.
 
 ### Hubber (rabbit)
 
-![DashboardHub_Macot_Colors](https://user-images.githubusercontent.com/624760/114314355-2b0d7f00-9af2-11eb-8995-7db0bcb30f97.png)
+![DashboardHub_Macot_Colors](https://user-images.githubusercontent.com/51878265/145679283-2fd00312-40f1-475d-87ca-3ed6614bd0ee.png)
 
 ![Combined text + mascot](https://user-images.githubusercontent.com/624760/141800897-6d627e9a-7f82-4043-821f-9e9f380a4b98.png)
 
