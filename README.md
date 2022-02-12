@@ -1,6 +1,6 @@
 # EddieHub Branding Repo
 
-Assets for EddieHub branding repo.
+Assets for EddieHub branding repo. Please read the [branding guidelines](https://www.eddiehub.org/branding).
 
 ## Assets
 
