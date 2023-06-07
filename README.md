@@ -44,3 +44,9 @@ Assets for EddieHub branding repo. Please read the [branding guidelines](https:/
 ### Chibi
 
 <img src="assets/chibi-eddiejaoude.png" height="150px" />
+
+## Our Pledge
+
+We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.  
+
+If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/EddieHubCommunity/Branding/blob/main/CODE_OF_CONDUCT.md).
