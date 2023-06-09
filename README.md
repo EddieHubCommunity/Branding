@@ -24,14 +24,12 @@ Assets for EddieHub branding repo. Please read the [branding guidelines](https:/
 ![12](https://user-images.githubusercontent.com/624760/114314284-eda8f180-9af1-11eb-80bd-b16eb0363870.png)
 ![13](https://user-images.githubusercontent.com/624760/114314285-ee418800-9af1-11eb-828e-ab17c0a63583.png)
 ![14](https://user-images.githubusercontent.com/624760/114314286-ee418800-9af1-11eb-992f-ffd91b39f84e.png)
-![15](https://user-images.githubusercontent.com/624760/114314287-eeda1e80-9af1-11eb-981e-d59a57b0b062.png)
-![16](https://user-images.githubusercontent.com/624760/114314288-eeda1e80-9af1-11eb-9c37-4916620ff3f7.png)
-![17](https://user-images.githubusercontent.com/624760/114314289-ef72b500-9af1-11eb-91a1-720a6e4263a7.png)
-![18](https://user-images.githubusercontent.com/624760/114314290-ef72b500-9af1-11eb-8b57-42c02a60a8ed.png)
-![19](https://user-images.githubusercontent.com/624760/114314291-f00b4b80-9af1-11eb-888a-02caa4ca0d41.png)
-![20](https://user-images.githubusercontent.com/624760/114314292-f00b4b80-9af1-11eb-91c2-ca99a207343d.png)
-![21](https://user-images.githubusercontent.com/624760/114314293-f0a3e200-9af1-11eb-978a-60a76155239a.png)
-![22](https://user-images.githubusercontent.com/624760/114314294-f0a3e200-9af1-11eb-9019-b96b5b15cb7c.png)
+![15](https://user-images.githubusercontent.com/624760/114314289-ef72b500-9af1-11eb-91a1-720a6e4263a7.png)
+![16](https://user-images.githubusercontent.com/624760/114314290-ef72b500-9af1-11eb-8b57-42c02a60a8ed.png)
+![17](https://user-images.githubusercontent.com/624760/114314291-f00b4b80-9af1-11eb-888a-02caa4ca0d41.png)
+![18](https://user-images.githubusercontent.com/624760/114314292-f00b4b80-9af1-11eb-91c2-ca99a207343d.png)
+![19](https://user-images.githubusercontent.com/624760/114314293-f0a3e200-9af1-11eb-978a-60a76155239a.png)
+![20](https://user-images.githubusercontent.com/624760/114314294-f0a3e200-9af1-11eb-9019-b96b5b15cb7c.png)
 
 ### EddieHub
 
